@@ -2,3 +2,5 @@
  JSON to XML Exam Engine converter
 
 This repository includes files used to convert old JSON format exams to XML format exams for <a href="https://github.com/digabi/exam-engine">Exam Engine</a>.  
+
+Some files  may have dependencies to files not shared in this repository.
